@@ -46,7 +46,6 @@ depends: [
   "ocamlbuild" {build}
   "result-windows"
   "ppx_tools"
-  "lwt" {= "2.7.0"}
 ]
 depopts: [
   "ssl-windows"
